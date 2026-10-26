@@ -1,4 +1,19 @@
-# butler-skill-stable-yield
+# butler-skill-stable-yield — moved
+
+> **This skill is deprecated. It is folded into
+> [`stable-earn`](https://github.com/mamamatcha/butler-skill-stable-earn)** (0.2.0), the
+> one home for earning with stablecoins. The open question - "how can I earn on my
+> USDC?" - and its one routing question are `stable-earn`'s step 1; the comparison is its
+> `references/compare.md`, now read live with no hard-coded rates.
+>
+> | | |
+> | --- | --- |
+> | Registry | never listed; nothing installs it |
+> | Last version here | 0.1.0 |
+> | Routes now | lending (`stable-earn`) and selling a put (`options-trading`: Derive, Paradex, Rysk) |
+>
+> Open issues and changes against `stable-earn`. This repo is kept read-only so its
+> history stays resolvable.
 
 The `stable-yield` skill for [Butler](https://github.com/Virtual-Protocol/butler-skills).
 For the humans maintaining this repo — never published to a butler. Only `SKILL.md`
