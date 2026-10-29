@@ -1,4 +1,17 @@
-# butler-skill-stable-yield
+# butler-skill-stable-yield — retired
+
+> **This skill is retired, and nothing replaces its routing.** Each route is now its own
+> skill, found on its own words, with no router choosing between them:
+>
+> | | |
+> | --- | --- |
+> | Lending USDC (Aave on Base) | [`stable-earn`](https://github.com/mamamatcha/butler-skill-stable-earn) |
+> | Selling a put (Derive, Paradex, Rysk) | `options-trading` ([`butler-skill-yield-notes`](https://github.com/mamamatcha/butler-skill-yield-notes)) |
+> | Registry | never listed; nothing installs it |
+> | Last version here | 0.1.0 |
+>
+> Open issues and changes against those repos. This repo is kept read-only so its
+> history stays resolvable.
 
 The `stable-yield` skill for [Butler](https://github.com/Virtual-Protocol/butler-skills).
 For the humans maintaining this repo — never published to a butler. Only `SKILL.md`
